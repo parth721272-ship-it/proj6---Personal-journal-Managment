@@ -1,6 +1,5 @@
 # =========================================
 # Personal Journal System
-# Beginner Friendly Python Project
 # =========================================
 
 # Import modules
